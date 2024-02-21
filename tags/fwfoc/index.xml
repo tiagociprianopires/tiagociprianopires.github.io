@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on </description>
+    <title>Fwfoc on </title>
+    <link>//localhost:1313/tags/fwfoc/</link>
+    <description>Recent content in Fwfoc on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 21 Feb 2024 22:14:58 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/fwfoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Not knows how to keep know how</title>
       <link>//localhost:1313/posts/20240221-knowhow/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
       <guid>//localhost:1313/posts/20240221-knowhow/</guid>
       <description>A friend works for a company that, after acquiring a software company for millions just for their know-how, allowed them to work in a silo while integrating their software into the main data stream. Subsequently, the company proceeded to fire them all. Now, they can&amp;rsquo;t understand or perform the required maintenance on what has become essential software. Having none of the knowledge that cost millions to acquire, the company has decided to fix this issue by hiring external consultants instead of relying on in-house developers.</description>
-    </item>
-    <item>
-      <title>What&#39;s this all about</title>
-      <link>//localhost:1313/posts/20240221_0-kickstart/</link>
-      <pubDate>Wed, 21 Feb 2024 21:14:58 +0100</pubDate>
-      <guid>//localhost:1313/posts/20240221_0-kickstart/</guid>
-      <description>Digital garden, ramblings and others.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>//localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/about/</guid>
-      <description>rambling /ˈramblɪŋ,ˈrambəlɪŋ/ adjective&#xA;(of writing or speech) lengthy and confused or inconsequential. </description>
     </item>
   </channel>
 </rss>
