@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Biggus Datum</title>
-    <link>http://biggusdatum.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Biggus Datum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 22:14:58 +0100</lastBuildDate>
-    <atom:link href="http://biggusdatum.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 20:06:33 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pt</title>
+      <link>http://localhost:1313/tags/pt/</link>
+      <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
+      <guid>http://localhost:1313/tags/pt/</guid>
+      <description></description>
+    </item>
     <item>
       <title>En</title>
-      <link>http://biggusdatum.com/tags/en/</link>
+      <link>http://localhost:1313/tags/en/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/en/</guid>
+      <guid>http://localhost:1313/tags/en/</guid>
       <description></description>
     </item>
     <item>
       <title>Fwfoc</title>
-      <link>http://biggusdatum.com/tags/fwfoc/</link>
+      <link>http://localhost:1313/tags/fwfoc/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/fwfoc/</guid>
+      <guid>http://localhost:1313/tags/fwfoc/</guid>
       <description></description>
     </item>
     <item>
       <title>Gastro</title>
-      <link>http://biggusdatum.com/tags/gastro/</link>
+      <link>http://localhost:1313/tags/gastro/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/gastro/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pt</title>
-      <link>http://biggusdatum.com/tags/pt/</link>
-      <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/pt/</guid>
+      <guid>http://localhost:1313/tags/gastro/</guid>
       <description></description>
     </item>
   </channel>
