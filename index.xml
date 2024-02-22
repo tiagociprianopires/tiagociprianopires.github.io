@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biggus Datum</title>
-    <link>http://localhost:1313/</link>
+    <link>http://biggusdatum.com/</link>
     <description>Recent content on Biggus Datum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Fri, 23 Feb 2024 00:01:04 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://biggusdatum.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to deal with depression</title>
-      <link>http://localhost:1313/posts/pensamentos/depression/</link>
+      <link>http://biggusdatum.com/posts/pensamentos/depression/</link>
       <pubDate>Fri, 23 Feb 2024 00:01:04 +0100</pubDate>
-      <guid>http://localhost:1313/posts/pensamentos/depression/</guid>
+      <guid>http://biggusdatum.com/posts/pensamentos/depression/</guid>
       <description>Put depression on your to do list so you never get to it&#xA;&amp;ndash; Tiago Forte</description>
     </item>
     <item>
       <title>Storm Louis is coming</title>
-      <link>http://localhost:1313/phosts/amsterdam/20240222-storm/</link>
+      <link>http://biggusdatum.com/phosts/amsterdam/20240222-storm/</link>
       <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
-      <guid>http://localhost:1313/phosts/amsterdam/20240222-storm/</guid>
+      <guid>http://biggusdatum.com/phosts/amsterdam/20240222-storm/</guid>
       <description>Big storm coming tonight. Hoppefuly we won&amp;rsquo;t get more bridges like this. </description>
     </item>
     <item>
       <title>Doesn&#39;t know how to keep know how</title>
-      <link>http://localhost:1313/posts/fwfoc/know-how/</link>
+      <link>http://biggusdatum.com/posts/fwfoc/know-how/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/fwfoc/know-how/</guid>
+      <guid>http://biggusdatum.com/posts/fwfoc/know-how/</guid>
       <description>A friend works for a company that, after acquiring a software company for millions just for their know-how, allowed them to work in a silo while integrating their software into the main data stream. Subsequently, the company proceeded to fire them all. Now, they can&amp;rsquo;t understand or perform the required maintenance on what has become essential software. Having none of the knowledge that cost millions to acquire, the company has decided to fix this issue by hiring external consultants instead of relying on in-house developers.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://biggusdatum.com/about/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://biggusdatum.com/about/</guid>
       <description>rambling /ˈramblɪŋ,ˈrambəlɪŋ/ adjective&#xA;(of writing or speech) lengthy and confused or inconsequential. </description>
     </item>
     <item>
       <title>Carne</title>
-      <link>http://localhost:1313/pages/carne/</link>
+      <link>http://biggusdatum.com/pages/carne/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://localhost:1313/pages/carne/</guid>
+      <guid>http://biggusdatum.com/pages/carne/</guid>
       <description>Vaca Antes da tradução há que memorizar o &amp;ldquo;mapa&amp;rdquo; da vaca.&#xA;Cernelha (cachaço) - Assar, Estufar; Cernelha (acém redondo) - Assar, grelhar; Costeletas de lombo - Assar, grelhar; Vazia (rosbife) - Assar, grelhar; Alcatra - Grelhar, assar; Chã de fora - Grelhar e assar; Rabadilha - Grelhar, assar, fritar; Aba das costelas carregada - Grelhar; Peito - Estufar; Aba das costelas descarregada - Assar, Estufar; Aba descarregada (rolo) - Recheado e assar no forno; Jarrete (chambão, lagarto) - Estufar; Pá (espádua) - Grelhar, assar, estufar; Rabo - Estufar; Coelho - Assar no forno, grelhar; Nispo (gémeos) - Estufar; (A) Chã de dentro (pojadouro) - Grelhar; Português Neerlandês Lombo Haas Vazia Entrecote Porco Português Neerlandês Lombo Haas Cachaço Varkensnek ou Varkensprocureur Costoletas Carbonade Entrecosto Krabbetjes Entrecosto (piano) Spareribs Entremeada Speklapje </description>
     </item>
     <item>
       <title>What&#39;s this all about</title>
-      <link>http://localhost:1313/posts/kickstart/</link>
+      <link>http://biggusdatum.com/posts/kickstart/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/kickstart/</guid>
+      <guid>http://biggusdatum.com/posts/kickstart/</guid>
       <description>Digital garden, ramblings and others. Appologies with the mix of languages, but that&amp;rsquo;s just how my mind works.</description>
     </item>
     <item>
       <title>Ervas Aromáticas e Especiarias</title>
-      <link>http://localhost:1313/pages/ervas/</link>
+      <link>http://biggusdatum.com/pages/ervas/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:51 +0100</pubDate>
-      <guid>http://localhost:1313/pages/ervas/</guid>
+      <guid>http://biggusdatum.com/pages/ervas/</guid>
       <description>Ervas Aromáticas Português Neerlandês Salsa Peterselie Coentro Koriander Cerefólio Kervel Feno-grego, Alforva, Fenacho-do-Algarve Fenegriek Alecrim Rozemarijn Alho Knoflook Cebolinho Bieslook Endro Dille Erva Cidreira, Melissa Citroenmellise Estragão Dragon Manjericão, Alfavaca Basilicum Funcho Venkel Hortelã Munt Louro Laurierblad Majerona Echte1 marjolein Orégano Wilde2 marjolein, Oregano Aipo, Salsão Selderij, Snijselderij Salva Echte1 salie Tomilho Tijm Anis, Erva doce Anijs Verbena IJzerhard Especiarias Pimentão-doce | Paprika&#xA;&amp;lsquo;Echte&amp;rsquo; significa &amp;lsquo;verdadeira&amp;rsquo;.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;&amp;lsquo;Wilde significa &amp;lsquo;selvagem&amp;rsquo;.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>Peixe</title>
-      <link>http://localhost:1313/pages/peixe/</link>
+      <link>http://biggusdatum.com/pages/peixe/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:50 +0100</pubDate>
-      <guid>http://localhost:1313/pages/peixe/</guid>
+      <guid>http://biggusdatum.com/pages/peixe/</guid>
       <description>Peixe Português Neerlandês Sardinha Sardine Biqueirão ou Anchova Ansjovis Bacalhau Kabeljauw, Bakeljauw (Surinaams) Linguado Tong Solha Zomerbot, Schol Tamboril Zeeduivel Dourada Goudbrasem, Dourade Tubarão Haai Peixe Lobo Zeewolf Arenque Haring Salmão Zalm Pescada-branca Heek Escamudo Koolvis Alabote-do-Atlântico Heilbot Pregado Tarbot Maruca Leng Sargo Zeebrasem, Scup Sarda ou Cavala Makreel Espadarte Zwaardvis Atum Tonijn Sável Fint, Elft Corvina Ombervis Taínha Harder Carapau Horsmakreel Robalo Zeebaars Truta Forel Raia Rog, Vleet Eiró ou Enguia Paling Lúcio Snoek Esperlano Spiering Safio ou Congro Zeepaling Salmonete Zeebarbeel Goraz Rode Zeebrasem Carpa Karper Siluro Meerval Badejo Wijting Arinca Schelvis Ruivo Rode poon Perca Baars Invertebrados Português Neerlandês Choco Sepia Lula Pijlinktvis Polvo Inktvis, Octpus, Achtarm Moluscos Português Neerlandês Mexilhões Mosselen Ostras Oesters </description>
     </item>
     <item>
       <title>Verduras</title>
-      <link>http://localhost:1313/pages/verduras/</link>
+      <link>http://biggusdatum.com/pages/verduras/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:40 +0100</pubDate>
-      <guid>http://localhost:1313/pages/verduras/</guid>
+      <guid>http://biggusdatum.com/pages/verduras/</guid>
       <description>Verduras Português Neerlandês Couve Kool Couve-Flôr Bloemkool Batata Aardappel Nabo Knolraap Agrião Waterkers Aipo-hortense, Aipo em rama, Celeri Bleekselderij Aipo-rábano, Aipo-nabo, Aipo de cabeça Knolselderij Acelgas, Beterraba branca Snijbiet Fruta Português Neerlandês Maçã Appel Pera Peer Uvas Druiven Banana Banane Dióspiro, Caqui Kaki Morangos Aardbeien Nêspera Loquat </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/404/</link>
+      <link>http://biggusdatum.com/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/404/</guid>
+      <guid>http://biggusdatum.com/404/</guid>
       <description></description>
     </item>
   </channel>
