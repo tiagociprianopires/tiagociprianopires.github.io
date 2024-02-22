@@ -5,10 +5,13 @@
     <loc>http://biggusdatum.com/</loc>
     <lastmod>2024-02-22T20:06:33+01:00</lastmod>
   </url><url>
-    <loc>http://biggusdatum.com/phosts/</loc>
+    <loc>http://biggusdatum.com/tags/en/</loc>
     <lastmod>2024-02-22T20:06:33+01:00</lastmod>
   </url><url>
-    <loc>http://biggusdatum.com/tags/pt/</loc>
+    <loc>http://biggusdatum.com/tags/phost/</loc>
+    <lastmod>2024-02-22T20:06:33+01:00</lastmod>
+  </url><url>
+    <loc>http://biggusdatum.com/phosts/</loc>
     <lastmod>2024-02-22T20:06:33+01:00</lastmod>
   </url><url>
     <loc>http://biggusdatum.com/phosts/amsterdam/20240222-storm/</loc>
@@ -18,9 +21,6 @@
     <lastmod>2024-02-22T20:06:33+01:00</lastmod>
   </url><url>
     <loc>http://biggusdatum.com/posts/20240221-knowhow/</loc>
-    <lastmod>2024-02-21T22:14:58+01:00</lastmod>
-  </url><url>
-    <loc>http://biggusdatum.com/tags/en/</loc>
     <lastmod>2024-02-21T22:14:58+01:00</lastmod>
   </url><url>
     <loc>http://biggusdatum.com/tags/fwfoc/</loc>
@@ -39,6 +39,9 @@
     <lastmod>2024-02-21T21:14:59+01:00</lastmod>
   </url><url>
     <loc>http://biggusdatum.com/pages/</loc>
+    <lastmod>2024-02-21T21:14:59+01:00</lastmod>
+  </url><url>
+    <loc>http://biggusdatum.com/tags/pt/</loc>
     <lastmod>2024-02-21T21:14:59+01:00</lastmod>
   </url><url>
     <loc>http://biggusdatum.com/posts/20240221_0-kickstart/</loc>

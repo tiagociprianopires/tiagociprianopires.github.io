@@ -10,17 +10,17 @@
     <lastBuildDate>Thu, 22 Feb 2024 20:06:33 +0100</lastBuildDate>
     <atom:link href="http://biggusdatum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Pt</title>
-      <link>http://biggusdatum.com/tags/pt/</link>
+      <title>En</title>
+      <link>http://biggusdatum.com/tags/en/</link>
       <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/pt/</guid>
+      <guid>http://biggusdatum.com/tags/en/</guid>
       <description></description>
     </item>
     <item>
-      <title>En</title>
-      <link>http://biggusdatum.com/tags/en/</link>
-      <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/en/</guid>
+      <title>Phost</title>
+      <link>http://biggusdatum.com/tags/phost/</link>
+      <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
+      <guid>http://biggusdatum.com/tags/phost/</guid>
       <description></description>
     </item>
     <item>
@@ -35,6 +35,13 @@
       <link>http://biggusdatum.com/tags/gastro/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
       <guid>http://biggusdatum.com/tags/gastro/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pt</title>
+      <link>http://biggusdatum.com/tags/pt/</link>
+      <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
+      <guid>http://biggusdatum.com/tags/pt/</guid>
       <description></description>
     </item>
   </channel>
