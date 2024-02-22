@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phosts on Biggus Datum</title>
-    <link>http://biggusdatum.com/phosts/</link>
+    <link>http://localhost:1313/phosts/</link>
     <description>Recent content in Phosts on Biggus Datum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Thu, 22 Feb 2024 20:06:33 +0100</lastBuildDate>
-    <atom:link href="http://biggusdatum.com/phosts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/phosts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Storm Louis is coming</title>
-      <link>http://biggusdatum.com/phosts/amsterdam/20240222-storm/</link>
+      <link>http://localhost:1313/phosts/amsterdam/20240222-storm/</link>
       <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
-      <guid>http://biggusdatum.com/phosts/amsterdam/20240222-storm/</guid>
+      <guid>http://localhost:1313/phosts/amsterdam/20240222-storm/</guid>
       <description>Big storm coming tonight. Hoppefuly we won&amp;rsquo;t get more bridges like this. </description>
     </item>
   </channel>
