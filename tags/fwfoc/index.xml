@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fwfoc on Biggus Datum</title>
-    <link>http://localhost:1313/tags/fwfoc/</link>
+    <link>http://biggusdatum.com/tags/fwfoc/</link>
     <description>Recent content in Fwfoc on Biggus Datum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Wed, 21 Feb 2024 22:14:58 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/fwfoc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://biggusdatum.com/tags/fwfoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doesn&#39;t know how to keep know how</title>
-      <link>http://localhost:1313/posts/20240221-knowhow/</link>
+      <link>http://biggusdatum.com/posts/20240221-knowhow/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
-      <guid>http://localhost:1313/posts/20240221-knowhow/</guid>
+      <guid>http://biggusdatum.com/posts/20240221-knowhow/</guid>
       <description>A friend works for a company that, after acquiring a software company for millions just for their know-how, allowed them to work in a silo while integrating their software into the main data stream. Subsequently, the company proceeded to fire them all. Now, they can&amp;rsquo;t understand or perform the required maintenance on what has become essential software. Having none of the knowledge that cost millions to acquire, the company has decided to fix this issue by hiring external consultants instead of relying on in-house developers.</description>
     </item>
   </channel>
