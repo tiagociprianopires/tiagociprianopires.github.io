@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phosts on Biggus Datum</title>
+    <link>http://localhost:1313/tags/phosts/</link>
+    <description>Recent content in Phosts on Biggus Datum</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Tiago Cipriano Pires</copyright>
+    <atom:link href="http://localhost:1313/tags/phosts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

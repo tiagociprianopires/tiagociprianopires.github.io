@@ -11,10 +11,10 @@
     <atom:link href="http://biggusdatum.com/tags/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How is this built and what needs to be done</title>
-      <link>http://biggusdatum.com/collections/this-site/</link>
+      <link>http://biggusdatum.com/collections/technical_guide_to_this_site/</link>
       <pubDate>Fri, 23 Feb 2024 20:43:25 +0100</pubDate>
-      <guid>http://biggusdatum.com/collections/this-site/</guid>
-      <description>Premisses I&amp;rsquo;m using Hugo to build this. It&amp;rsquo;s stored in a gitHub repo and with a submodule it links to another repo, where the site public content is generated into, to be served thanks to GitHub Pages.&#xA;So far all is done manually, and I need my own laptop to write, generate and push the changes.&#xA;I don&amp;rsquo;t like this workflow.&#xA;Not only are too manual steps involved, is too clunky and Pages takes some time to update - and doesn&amp;rsquo;t seem to update all at once, sometimes I get some inconstencies.</description>
+      <guid>http://biggusdatum.com/collections/technical_guide_to_this_site/</guid>
+      <description>Premisses I&amp;rsquo;m using Hugo to build this. It&amp;rsquo;s stored in a gitHub repo and with a submodule it links to another repo, where the site public content is generated into, to be served thanks to GitHub Pages.&#xA;The reason I&amp;rsquo;m using Hugo and not Jekyll is mostly because how much I hate installing Ruby in my macbook. That was the main reason. I&amp;rsquo;ve used Jekyll before and I liked it. The template language is so much easier than the one used in Hugo, but the simplicity of installing Hugo plus the auto-updated local server made me chose Hugo hands down.</description>
     </item>
     <item>
       <title>We&#39;re getting there</title>
