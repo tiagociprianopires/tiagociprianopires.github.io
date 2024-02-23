@@ -7,33 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
-    <lastBuildDate>Fri, 23 Feb 2024 00:01:04 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 20:43:25 +0100</lastBuildDate>
     <atom:link href="http://biggusdatum.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pensamentos</title>
-      <link>http://biggusdatum.com/tags/pensamentos/</link>
-      <pubDate>Fri, 23 Feb 2024 00:01:04 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/pensamentos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Pt</title>
-      <link>http://biggusdatum.com/tags/pt/</link>
-      <pubDate>Fri, 23 Feb 2024 00:01:04 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/pt/</guid>
-      <description></description>
-    </item>
     <item>
       <title>En</title>
       <link>http://biggusdatum.com/tags/en/</link>
-      <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
+      <pubDate>Fri, 23 Feb 2024 20:43:25 +0100</pubDate>
       <guid>http://biggusdatum.com/tags/en/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quotes</title>
+      <link>http://biggusdatum.com/tags/quotes/</link>
+      <pubDate>Fri, 23 Feb 2024 18:20:45 +0100</pubDate>
+      <guid>http://biggusdatum.com/tags/quotes/</guid>
       <description></description>
     </item>
     <item>
       <title>Phost</title>
       <link>http://biggusdatum.com/tags/phost/</link>
-      <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
+      <pubDate>Fri, 23 Feb 2024 18:14:03 +0100</pubDate>
       <guid>http://biggusdatum.com/tags/phost/</guid>
       <description></description>
     </item>
@@ -42,13 +35,6 @@
       <link>http://biggusdatum.com/tags/fwfoc/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
       <guid>http://biggusdatum.com/tags/fwfoc/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Gastro</title>
-      <link>http://biggusdatum.com/tags/gastro/</link>
-      <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/gastro/</guid>
       <description></description>
     </item>
   </channel>

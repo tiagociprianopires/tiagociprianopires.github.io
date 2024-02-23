@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html><head lang="en">
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>How is this built and what needs to be done - Biggus Datum</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Getting geekier on how this is been done and it will continue" />
+	<meta property="og:image" content=""/>
+	<meta property="og:title" content="How is this built and what needs to be done" />
+<meta property="og:description" content="Getting geekier on how this is been done and it will continue" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://biggusdatum.com/collections/this-site/" /><meta property="article:section" content="collections" />
+<meta property="article:published_time" content="2024-02-23T20:43:25+01:00" />
+<meta property="article:modified_time" content="2024-02-23T20:43:25+01:00" />
+
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="How is this built and what needs to be done"/>
+<meta name="twitter:description" content="Getting geekier on how this is been done and it will continue"/>
+<script src="http://biggusdatum.com/js/feather.min.js"></script>
+	
+	
+        <link href="http://biggusdatum.com/css/fonts.2c2227b81b1970a03e760aa2e6121cd01f87c88586803cbb282aa224720a765f.css" rel="stylesheet">
+	
+
+	
+	<link rel="stylesheet" type="text/css" media="screen" href="http://biggusdatum.com/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://biggusdatum.com/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"  disabled />
+	
+
+	
+	
+		<script type="text/javascript"
+		src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+		</script>
+	
+		
+		<script type="text/x-mathjax-config">
+		MathJax.Hub.Config({
+			tex2jax: {
+				inlineMath: [['$','$'], ['\\(','\\)']],
+				displayMath: [['$$','$$'], ['\[','\]']],
+				processEscapes: true,
+				processEnvironments: true,
+				skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+				TeX: { equationNumbers: { autoNumber: "AMS" },
+						 extensions: ["AMSmath.js", "AMSsymbols.js"] }
+			}
+		});
+		</script>
+	
+
+	
+	
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
+		<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
+		
+		
+		<script>
+			document.addEventListener("DOMContentLoaded", function() {
+					renderMathInElement(document.body, {
+							delimiters: [
+									{left: "$$", right: "$$", display: true},
+									{left: "$", right: "$", display: false}
+							]
+					});
+			});
+			</script>
+	
+	
+	
+</head>
+<body>
+        <div class="content"><header>
+	<div class="main">
+		<a href="http://biggusdatum.com/">Biggus Datum</a>
+	</div>
+	<nav>
+		
+		<a href="/">Home</a>
+		
+		<a href="/posts">Posts</a>
+		
+		<a href="/phosts">Phosts</a>
+		
+		<a href="/collections">Collections</a>
+		
+		<a href="/tags">Tags</a>
+		
+		<a href="/about">About</a>
+		
+		| <span id="dark-mode-toggle" onclick="toggleTheme()"></span>
+		<script src="http://biggusdatum.com/js/themetoggle.js"></script>
+		
+	</nav>
+</header>
+
+<main>
+	<article>
+		<div class="title">
+			<h1 class="title">How is this built and what needs to be done</h1>
+			<div class="meta">Posted on Feb 23, 2024</div>
+		</div>
+		
+
+		<section class="body">
+			<h2 id="premisses">Premisses</h2>
+<p>I&rsquo;m using Hugo to build this. It&rsquo;s stored in a gitHub repo and with a submodule it links to another repo, where the site public content is generated into, to be served thanks to GitHub Pages.</p>
+<p>So far all is done manually, and I need my own laptop to write, generate and push the changes.</p>
+<p>I don&rsquo;t like this workflow.</p>
+<p>Not only are too manual steps involved, is too clunky and Pages takes some time to update - and doesn&rsquo;t seem to update all at once, sometimes I get some inconstencies.</p>
+<p>I will later create a GitHub Action to automate generation and publishing and re-evaluate this issue of the <em>eventual consistency</em>.</p>
+<p>The theme I&rsquo;m using is <a href="https://themes.gohugo.io/themes/archie/"   target="_blank">Archie</a> which is quite simple and easy to read. I made some modifications to it and will continue to do that. For now I just overwrite some of the templates. If I change more stuff maybe I should just fork it or so, but for now I didn&rsquo;t change or want to change enough to justify that. So a bit thanks to <a href="https://github.com/athul"   target="_blank">Athul</a> for this template.</p>
+<p>Everything is written in <a href="https://www.markdownguide.org/"   target="_blank">Markdown</a> and I&rsquo;m using <a href="https://vscodium.com/"   target="_blank">VSCodium</a> to write it - I would like to use Obsidian, since it&rsquo;s my favorite note taking application, but to also edit the HTML of the theme, using git, etc, VSCodium just makes it easier.</p>
+<p>I&rsquo;ve divided the content types into:</p>
+<ol>
+<li>posts, like blog posts, small and chronologically served. See <a href="http://biggusdatum.com/about/"  >the about page</a> for why I want these</li>
+<li>phosts, which are posts with a single picture, to share my photos</li>
+<li>collections. In bullet journaling, &ldquo;collections&rdquo; are a way to organize related information or tasks that fall outside of the usual daily, weekly, or monthly logs. They serve as a dedicated space for tracking, planning, or logging specific aspects of your life, interests, or projects. However, I need a <em>collection</em> to be more than just that. But I don&rsquo;t want to go as far as to distinguish <em>collection</em> from <em>essay</em>&hellip; not just now. Maybe in the future</li>
+</ol>
+<h2 id="big-things-to-do">Big Things To Do</h2>
+<ul>
+<li>The (blog) posts are too much to the center. I don&rsquo;t have a way to put the relevance into <em>collections</em>. I need to figure out how to give relevance to collections and how to navigate through them.</li>
+<li>navigation navigation navigation</li>
+</ul>
+<h2 id="small-things-to-do">Small Things To Do</h2>
+<ul>
+<li>List <em>collections</em> alphabetically, not chronologically.</li>
+<li>Improve writing and deployment workflow
+<ul>
+<li>I want to write anywhere, with a web browser, e.g. <a href="https://dillinger.io/"   target="_blank">Dillinger</a> or <a href="https://stackedit.io/"   target="_blank">StackEdit</a>. Both can connect to GitHub, so I could commit and trigger the deploy.</li>
+<li>work in the GitHub Action to have this published automatically.</li>
+</ul>
+</li>
+<li>I like the small icon leading when listing <em>phosts</em>. Find more icons for other type of content listed. These are the small things that are as the rug that really ties a room together.</li>
+</ul>
+
+		</section>
+
+		<div class="post-tags">
+			
+			
+			<nav class="nav tags">
+				<ul class="tags">
+					
+					<li><a href="/tags/en">en</a></li>
+					
+				</ul>
+			</nav>
+			
+			
+		</div>
+		</article>
+</main>
+<footer>
+  <div style="display:flex"><a class="soc" href="https://mastodon.green/@tiagocipriano" rel="me" title="Mastodon"><i data-feather="twitter"></i></a>
+    <a class="border"></a><a class="soc" href="https://www.flickr.com/photos/tiagocipriano/" rel="me" title="flickr"><i data-feather="aperture"></i></a>
+    <a class="border"></a></div>
+  <div class="footer-info">
+    2024  © Tiago Cipriano Pires 
+  </div>
+</footer>
+
+
+<script>
+  feather.replace()
+</script></div>
+    </body>
+</html>

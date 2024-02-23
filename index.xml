@@ -7,20 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
-    <lastBuildDate>Fri, 23 Feb 2024 00:01:04 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 20:43:25 +0100</lastBuildDate>
     <atom:link href="http://biggusdatum.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>How is this built and what needs to be done</title>
+      <link>http://biggusdatum.com/collections/this-site/</link>
+      <pubDate>Fri, 23 Feb 2024 20:43:25 +0100</pubDate>
+      <guid>http://biggusdatum.com/collections/this-site/</guid>
+      <description>Premisses I&amp;rsquo;m using Hugo to build this. It&amp;rsquo;s stored in a gitHub repo and with a submodule it links to another repo, where the site public content is generated into, to be served thanks to GitHub Pages.&#xA;So far all is done manually, and I need my own laptop to write, generate and push the changes.&#xA;I don&amp;rsquo;t like this workflow.&#xA;Not only are too manual steps involved, is too clunky and Pages takes some time to update - and doesn&amp;rsquo;t seem to update all at once, sometimes I get some inconstencies.</description>
+    </item>
+    <item>
+      <title>We&#39;re getting there</title>
+      <link>http://biggusdatum.com/posts/were-getting-there/</link>
+      <pubDate>Fri, 23 Feb 2024 20:42:02 +0100</pubDate>
+      <guid>http://biggusdatum.com/posts/were-getting-there/</guid>
+      <description>Just edited the about page. We&amp;rsquo;re getting there. Still need to think about navigation. Maybe push these posts to the side and let the collections or pages be the center of the page. Not sure yet, but we&amp;rsquo;re getting there. I&amp;rsquo;m quite enjoying the creation of this.</description>
+    </item>
+    <item>
+      <title>Programming languages for 2024</title>
+      <link>http://biggusdatum.com/collections/languages-to-learn/</link>
+      <pubDate>Fri, 23 Feb 2024 18:41:23 +0100</pubDate>
+      <guid>http://biggusdatum.com/collections/languages-to-learn/</guid>
+      <description>These are the programming languages I would like to learn or improve my knowledge this year.&#xA;Kotlin Rust Python Kotlin is a more recent language that runs on the JVM and has been gaining traction over the years.&#xA;Rust is noteworthy for its innovative memory borrow model, which seems interesting to learn and work with. The language offers impressive performance, and it&amp;rsquo;s supported by Apple for iOS app development. It also incorporates functional constructs such as iterators and closures.</description>
+    </item>
+    <item>
+      <title>It&#39;s OK not to always have an opinion</title>
+      <link>http://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</link>
+      <pubDate>Fri, 23 Feb 2024 18:20:45 +0100</pubDate>
+      <guid>http://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</guid>
+      <description>You always own the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can&amp;rsquo;t control. These things are not asking to be judged by you. Leave them alone.&#xA;&amp;ndash; Marcus Aurelius</description>
+    </item>
+    <item>
+      <title>Serenity Now</title>
+      <link>http://biggusdatum.com/posts/quotes/serenity/</link>
+      <pubDate>Fri, 23 Feb 2024 18:18:37 +0100</pubDate>
+      <guid>http://biggusdatum.com/posts/quotes/serenity/</guid>
+      <description>God grant me the serenity to accept the things I cannot change. Courage to change the things that I can. And wisdom to know the difference.&#xA;&amp;ndash; Marcus Aurelius</description>
+    </item>
+    <item>
+      <title>Wishing for better weather</title>
+      <link>http://biggusdatum.com/phosts/amsterdam/improving-weather/</link>
+      <pubDate>Fri, 23 Feb 2024 18:14:03 +0100</pubDate>
+      <guid>http://biggusdatum.com/phosts/amsterdam/improving-weather/</guid>
+      <description>After the big storm I&amp;rsquo;m hopefull something like this will be back for the weekend. This was taken almost exactly 3 years ago. </description>
+    </item>
+    <item>
       <title>How to deal with depression</title>
-      <link>http://biggusdatum.com/posts/pensamentos/depression/</link>
+      <link>http://biggusdatum.com/posts/quotes/depression/</link>
       <pubDate>Fri, 23 Feb 2024 00:01:04 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/pensamentos/depression/</guid>
-      <description>Put depression on your to do list so you never get to it&#xA;&amp;ndash; Tiago Forte</description>
+      <guid>http://biggusdatum.com/posts/quotes/depression/</guid>
+      <description>Put depression on your todo list so you never get to it&#xA;&amp;ndash; Tiago Forte</description>
     </item>
     <item>
       <title>Storm Louis is coming</title>
-      <link>http://biggusdatum.com/phosts/amsterdam/20240222-storm/</link>
+      <link>http://biggusdatum.com/phosts/amsterdam/storm-louis/</link>
       <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
-      <guid>http://biggusdatum.com/phosts/amsterdam/20240222-storm/</guid>
+      <guid>http://biggusdatum.com/phosts/amsterdam/storm-louis/</guid>
       <description>Big storm coming tonight. Hoppefuly we won&amp;rsquo;t get more bridges like this. </description>
     </item>
     <item>
@@ -35,14 +77,7 @@
       <link>http://biggusdatum.com/about/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
       <guid>http://biggusdatum.com/about/</guid>
-      <description>rambling /ˈramblɪŋ,ˈrambəlɪŋ/ adjective&#xA;(of writing or speech) lengthy and confused or inconsequential. </description>
-    </item>
-    <item>
-      <title>Carne</title>
-      <link>http://biggusdatum.com/pages/carne/</link>
-      <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/carne/</guid>
-      <description>Vaca Antes da tradução há que memorizar o &amp;ldquo;mapa&amp;rdquo; da vaca.&#xA;Cernelha (cachaço) - Assar, Estufar; Cernelha (acém redondo) - Assar, grelhar; Costeletas de lombo - Assar, grelhar; Vazia (rosbife) - Assar, grelhar; Alcatra - Grelhar, assar; Chã de fora - Grelhar e assar; Rabadilha - Grelhar, assar, fritar; Aba das costelas carregada - Grelhar; Peito - Estufar; Aba das costelas descarregada - Assar, Estufar; Aba descarregada (rolo) - Recheado e assar no forno; Jarrete (chambão, lagarto) - Estufar; Pá (espádua) - Grelhar, assar, estufar; Rabo - Estufar; Coelho - Assar no forno, grelhar; Nispo (gémeos) - Estufar; (A) Chã de dentro (pojadouro) - Grelhar; Português Neerlandês Lombo Haas Vazia Entrecote Porco Português Neerlandês Lombo Haas Cachaço Varkensnek ou Varkensprocureur Costoletas Carbonade Entrecosto Krabbetjes Entrecosto (piano) Spareribs Entremeada Speklapje </description>
+      <description>Modern blogs, in which all the texts are to be perputal and displayed chronologically, are not the original personal web spaces. Before there was a myriad of pages that were individually curated, without the constraints that current site-building tools or software impose. Granted, those tools have democratized the space, making it available to anyone with an internet connection. But they have also standardized what used to be a diverse collection of pages (many just lists of hyperlinks), each with a unique structure, layout or taste where the creator personality could truly shine.</description>
     </item>
     <item>
       <title>What&#39;s this all about</title>
@@ -50,27 +85,6 @@
       <pubDate>Wed, 21 Feb 2024 21:14:58 +0100</pubDate>
       <guid>http://biggusdatum.com/posts/kickstart/</guid>
       <description>Digital garden, ramblings and others. Appologies with the mix of languages, but that&amp;rsquo;s just how my mind works.</description>
-    </item>
-    <item>
-      <title>Ervas Aromáticas e Especiarias</title>
-      <link>http://biggusdatum.com/pages/ervas/</link>
-      <pubDate>Wed, 21 Feb 2024 21:14:51 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/ervas/</guid>
-      <description>Ervas Aromáticas Português Neerlandês Salsa Peterselie Coentro Koriander Cerefólio Kervel Feno-grego, Alforva, Fenacho-do-Algarve Fenegriek Alecrim Rozemarijn Alho Knoflook Cebolinho Bieslook Endro Dille Erva Cidreira, Melissa Citroenmellise Estragão Dragon Manjericão, Alfavaca Basilicum Funcho Venkel Hortelã Munt Louro Laurierblad Majerona Echte1 marjolein Orégano Wilde2 marjolein, Oregano Aipo, Salsão Selderij, Snijselderij Salva Echte1 salie Tomilho Tijm Anis, Erva doce Anijs Verbena IJzerhard Especiarias Pimentão-doce | Paprika&#xA;&amp;lsquo;Echte&amp;rsquo; significa &amp;lsquo;verdadeira&amp;rsquo;.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;&amp;lsquo;Wilde significa &amp;lsquo;selvagem&amp;rsquo;.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
-    </item>
-    <item>
-      <title>Peixe</title>
-      <link>http://biggusdatum.com/pages/peixe/</link>
-      <pubDate>Wed, 21 Feb 2024 21:14:50 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/peixe/</guid>
-      <description>Peixe Português Neerlandês Sardinha Sardine Biqueirão ou Anchova Ansjovis Bacalhau Kabeljauw, Bakeljauw (Surinaams) Linguado Tong Solha Zomerbot, Schol Tamboril Zeeduivel Dourada Goudbrasem, Dourade Tubarão Haai Peixe Lobo Zeewolf Arenque Haring Salmão Zalm Pescada-branca Heek Escamudo Koolvis Alabote-do-Atlântico Heilbot Pregado Tarbot Maruca Leng Sargo Zeebrasem, Scup Sarda ou Cavala Makreel Espadarte Zwaardvis Atum Tonijn Sável Fint, Elft Corvina Ombervis Taínha Harder Carapau Horsmakreel Robalo Zeebaars Truta Forel Raia Rog, Vleet Eiró ou Enguia Paling Lúcio Snoek Esperlano Spiering Safio ou Congro Zeepaling Salmonete Zeebarbeel Goraz Rode Zeebrasem Carpa Karper Siluro Meerval Badejo Wijting Arinca Schelvis Ruivo Rode poon Perca Baars Invertebrados Português Neerlandês Choco Sepia Lula Pijlinktvis Polvo Inktvis, Octpus, Achtarm Moluscos Português Neerlandês Mexilhões Mosselen Ostras Oesters </description>
-    </item>
-    <item>
-      <title>Verduras</title>
-      <link>http://biggusdatum.com/pages/verduras/</link>
-      <pubDate>Wed, 21 Feb 2024 21:14:40 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/verduras/</guid>
-      <description>Verduras Português Neerlandês Couve Kool Couve-Flôr Bloemkool Batata Aardappel Nabo Knolraap Agrião Waterkers Aipo-hortense, Aipo em rama, Celeri Bleekselderij Aipo-rábano, Aipo-nabo, Aipo de cabeça Knolselderij Acelgas, Beterraba branca Snijbiet Fruta Português Neerlandês Maçã Appel Pera Peer Uvas Druiven Banana Banane Dióspiro, Caqui Kaki Morangos Aardbeien Nêspera Loquat </description>
     </item>
     <item>
       <title></title>

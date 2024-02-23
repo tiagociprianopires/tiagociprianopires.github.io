@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Biggus Datum</title>
-    <link>http://biggusdatum.com/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Biggus Datum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Wed, 21 Feb 2024 21:14:59 +0100</lastBuildDate>
-    <atom:link href="http://biggusdatum.com/pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carne</title>
-      <link>http://biggusdatum.com/pages/carne/</link>
+      <link>http://localhost:1313/pages/carne/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/carne/</guid>
+      <guid>http://localhost:1313/pages/carne/</guid>
       <description>Vaca Antes da tradução há que memorizar o &amp;ldquo;mapa&amp;rdquo; da vaca.&#xA;Cernelha (cachaço) - Assar, Estufar; Cernelha (acém redondo) - Assar, grelhar; Costeletas de lombo - Assar, grelhar; Vazia (rosbife) - Assar, grelhar; Alcatra - Grelhar, assar; Chã de fora - Grelhar e assar; Rabadilha - Grelhar, assar, fritar; Aba das costelas carregada - Grelhar; Peito - Estufar; Aba das costelas descarregada - Assar, Estufar; Aba descarregada (rolo) - Recheado e assar no forno; Jarrete (chambão, lagarto) - Estufar; Pá (espádua) - Grelhar, assar, estufar; Rabo - Estufar; Coelho - Assar no forno, grelhar; Nispo (gémeos) - Estufar; (A) Chã de dentro (pojadouro) - Grelhar; Português Neerlandês Lombo Haas Vazia Entrecote Porco Português Neerlandês Lombo Haas Cachaço Varkensnek ou Varkensprocureur Costoletas Carbonade Entrecosto Krabbetjes Entrecosto (piano) Spareribs Entremeada Speklapje </description>
     </item>
     <item>
       <title>Ervas Aromáticas e Especiarias</title>
-      <link>http://biggusdatum.com/pages/ervas/</link>
+      <link>http://localhost:1313/pages/ervas/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:51 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/ervas/</guid>
+      <guid>http://localhost:1313/pages/ervas/</guid>
       <description>Ervas Aromáticas Português Neerlandês Salsa Peterselie Coentro Koriander Cerefólio Kervel Feno-grego, Alforva, Fenacho-do-Algarve Fenegriek Alecrim Rozemarijn Alho Knoflook Cebolinho Bieslook Endro Dille Erva Cidreira, Melissa Citroenmellise Estragão Dragon Manjericão, Alfavaca Basilicum Funcho Venkel Hortelã Munt Louro Laurierblad Majerona Echte1 marjolein Orégano Wilde2 marjolein, Oregano Aipo, Salsão Selderij, Snijselderij Salva Echte1 salie Tomilho Tijm Anis, Erva doce Anijs Verbena IJzerhard Especiarias Pimentão-doce | Paprika&#xA;&amp;lsquo;Echte&amp;rsquo; significa &amp;lsquo;verdadeira&amp;rsquo;.&amp;#160;&amp;#x21a9;&amp;#xfe0e;&amp;#160;&amp;#x21a9;&amp;#xfe0e;&#xA;&amp;lsquo;Wilde significa &amp;lsquo;selvagem&amp;rsquo;.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
     </item>
     <item>
       <title>Peixe</title>
-      <link>http://biggusdatum.com/pages/peixe/</link>
+      <link>http://localhost:1313/pages/peixe/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:50 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/peixe/</guid>
+      <guid>http://localhost:1313/pages/peixe/</guid>
       <description>Peixe Português Neerlandês Sardinha Sardine Biqueirão ou Anchova Ansjovis Bacalhau Kabeljauw, Bakeljauw (Surinaams) Linguado Tong Solha Zomerbot, Schol Tamboril Zeeduivel Dourada Goudbrasem, Dourade Tubarão Haai Peixe Lobo Zeewolf Arenque Haring Salmão Zalm Pescada-branca Heek Escamudo Koolvis Alabote-do-Atlântico Heilbot Pregado Tarbot Maruca Leng Sargo Zeebrasem, Scup Sarda ou Cavala Makreel Espadarte Zwaardvis Atum Tonijn Sável Fint, Elft Corvina Ombervis Taínha Harder Carapau Horsmakreel Robalo Zeebaars Truta Forel Raia Rog, Vleet Eiró ou Enguia Paling Lúcio Snoek Esperlano Spiering Safio ou Congro Zeepaling Salmonete Zeebarbeel Goraz Rode Zeebrasem Carpa Karper Siluro Meerval Badejo Wijting Arinca Schelvis Ruivo Rode poon Perca Baars Invertebrados Português Neerlandês Choco Sepia Lula Pijlinktvis Polvo Inktvis, Octpus, Achtarm Moluscos Português Neerlandês Mexilhões Mosselen Ostras Oesters </description>
     </item>
     <item>
       <title>Verduras</title>
-      <link>http://biggusdatum.com/pages/verduras/</link>
+      <link>http://localhost:1313/pages/verduras/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:40 +0100</pubDate>
-      <guid>http://biggusdatum.com/pages/verduras/</guid>
+      <guid>http://localhost:1313/pages/verduras/</guid>
       <description>Verduras Português Neerlandês Couve Kool Couve-Flôr Bloemkool Batata Aardappel Nabo Knolraap Agrião Waterkers Aipo-hortense, Aipo em rama, Celeri Bleekselderij Aipo-rábano, Aipo-nabo, Aipo de cabeça Knolselderij Acelgas, Beterraba branca Snijbiet Fruta Português Neerlandês Maçã Appel Pera Peer Uvas Druiven Banana Banane Dióspiro, Caqui Kaki Morangos Aardbeien Nêspera Loquat </description>
     </item>
   </channel>
