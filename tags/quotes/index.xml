@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quotes on Biggus Datum</title>
-    <link>http://localhost:1313/tags/quotes/</link>
+    <link>http://biggusdatum.com/tags/quotes/</link>
     <description>Recent content in Quotes on Biggus Datum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Fri, 23 Feb 2024 18:20:45 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://biggusdatum.com/tags/quotes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It&#39;s OK not to always have an opinion</title>
-      <link>http://localhost:1313/posts/quotes/its-ok-not-to-have-an-opinion/</link>
+      <link>http://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</link>
       <pubDate>Fri, 23 Feb 2024 18:20:45 +0100</pubDate>
-      <guid>http://localhost:1313/posts/quotes/its-ok-not-to-have-an-opinion/</guid>
+      <guid>http://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</guid>
       <description>You always own the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can&amp;rsquo;t control. These things are not asking to be judged by you. Leave them alone.&#xA;&amp;ndash; Marcus Aurelius</description>
     </item>
     <item>
       <title>Serenity Now</title>
-      <link>http://localhost:1313/posts/quotes/serenity/</link>
+      <link>http://biggusdatum.com/posts/quotes/serenity/</link>
       <pubDate>Fri, 23 Feb 2024 18:18:37 +0100</pubDate>
-      <guid>http://localhost:1313/posts/quotes/serenity/</guid>
+      <guid>http://biggusdatum.com/posts/quotes/serenity/</guid>
       <description>God grant me the serenity to accept the things I cannot change. Courage to change the things that I can. And wisdom to know the difference.&#xA;&amp;ndash; Marcus Aurelius</description>
     </item>
     <item>
       <title>How to deal with depression</title>
-      <link>http://localhost:1313/posts/quotes/depression/</link>
+      <link>http://biggusdatum.com/posts/quotes/depression/</link>
       <pubDate>Fri, 23 Feb 2024 00:01:04 +0100</pubDate>
-      <guid>http://localhost:1313/posts/quotes/depression/</guid>
+      <guid>http://biggusdatum.com/posts/quotes/depression/</guid>
       <description>Put depression on your todo list so you never get to it&#xA;&amp;ndash; Tiago Forte</description>
     </item>
   </channel>
