@@ -20,7 +20,7 @@
 
 	
 	<link rel="stylesheet" type="text/css" media="screen" href="http://localhost:1313/css/main.ac08a4c9714baa859217f92f051deb58df2938ec352b506df655005dcaf98cc0.css" />
-		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css" media="(prefers-color-scheme: dark)"  />
+		<link id="darkModeStyle" rel="stylesheet" type="text/css" href="http://localhost:1313/css/dark.726cd11ca6eb7c4f7d48eb420354f814e5c1b94281aaf8fd0511c1319f7f78a4.css"  disabled />
 	
 
 	
@@ -81,10 +81,12 @@
 		
 		<a href="/collections">Collections</a>
 		
-		<a href="/about">About</a>
-		
 		<a href="/tags">Tags</a>
 		
+		<a href="/about">About</a>
+		
+		| <span id="dark-mode-toggle" onclick="toggleTheme()"></span>
+		<script src="http://localhost:1313/js/themetoggle.js"></script>
 		
 	</nav>
 </header>
@@ -94,21 +96,16 @@
 
 
 <ul class="posts"><li class="post">
-			<a href="/pages/carne/">Carne</a> <span class="meta">Feb 21, 2024</span>
+			<a href="/posts/ipma/ipma-open-data-project-overview/">IPMA Open Data</a> <span class="meta">Feb 28, 2024</span>
 		</li><li class="post">
-			<a href="/pages/ervas/">Ervas Aromáticas e Especiarias</a> <span class="meta">Feb 21, 2024</span>
-		</li><li class="post">
-			<a href="/pages/peixe/">Peixe</a> <span class="meta">Feb 21, 2024</span>
-		</li><li class="post">
-			<a href="/pages/verduras/">Verduras</a> <span class="meta">Feb 21, 2024</span>
+			<a href="/posts/ipma/download-ipma-open-data/">Download IPMA Open Data</a> <span class="meta">Feb 9, 2024</span>
 		</li></ul>
 <footer>
-  <div style="display:flex"><a class="soc" href="https://mastodon.green/@tiagocipriano" rel="me" title="Mastodon"><i data-feather="twitter"></i></a>
-    <a class="border"></a><a class="soc" href="https://www.flickr.com/photos/tiagocipriano/" rel="me" title="flickr"><i data-feather="aperture"></i></a>
+  <div style="display:flex"><a class="soc" href="https://mastodon.green/@tiagocipriano" rel="me" title="Mastodon" target="_blank"><i data-feather="twitter"></i></a>
+    <a class="border"></a><a class="soc" href="https://www.flickr.com/photos/tiagocipriano/" rel="me" title="flickr" target="_blank"><i data-feather="aperture"></i></a>
     <a class="border"></a></div>
   <div class="footer-info">
-    2024  © Tiago Cipriano Pires |  <a
-      href="https://github.com/athul/archie">Archie Theme</a> | Built with <a href="https://gohugo.io">Hugo</a>
+    2024  © Tiago Cipriano Pires 
   </div>
 </footer>
 <script>

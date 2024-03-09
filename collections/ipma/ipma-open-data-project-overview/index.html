@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Storm Louis is coming - Biggus Datum</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this. " />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>IPMA Open Data - Biggus Datum</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Vamos lá ver o que estes gajos têm" />
 	<meta property="og:image" content=""/>
-	<meta property="og:title" content="Storm Louis is coming" />
-<meta property="og:description" content="Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this. " />
+	<meta property="og:title" content="IPMA Open Data" />
+<meta property="og:description" content="Vamos lá ver o que estes gajos têm" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/phosts/amsterdam/storm-louis/" /><meta property="article:section" content="phosts" />
-<meta property="article:published_time" content="2024-02-22T20:06:33+01:00" />
-<meta property="article:modified_time" content="2024-02-22T20:06:33+01:00" />
+<meta property="og:url" content="http://localhost:1313/collections/ipma/ipma-open-data-project-overview/" /><meta property="article:section" content="collections" />
+<meta property="article:published_time" content="2024-02-28T07:11:32+01:00" />
+<meta property="article:modified_time" content="2024-02-28T07:11:32+01:00" />
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Storm Louis is coming"/>
-<meta name="twitter:description" content="Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this. "/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="IPMA Open Data"/>
+<meta name="twitter:description" content="Vamos lá ver o que estes gajos têm"/>
 <script src="http://localhost:1313/js/feather.min.js"></script>
 	
 	
@@ -95,17 +95,28 @@
 <main>
 	<article>
 		<div class="title">
-			<h1 class="title">Storm Louis is coming</h1>
-			<div class="meta">Posted on Feb 22, 2024</div>
+			<h1 class="title">IPMA Open Data</h1>
+			<div class="meta">Posted on Feb 28, 2024</div>
 		</div>
 		
 
 		<section class="body">
-			<p>Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this.
-<figure><img src="/images/photos/IMG_0525_rt-DeNoiseAI-denoise.jpg"
-         alt="New bridge after a storm"/>
-</figure>
-</p>
+			<p>Há anos que coleciono os dados da estação metereológica mais perto da horta, em Tavira. Têm sido publicados em PDF (wtf?) <a href="https://www.drapalgarve.gov.pt/ema/tav.htm"   target="_blank">há anos</a> - pelos menos desde 2006.
+O problema é que (1) fazer o <em>parsing</em> de um PDF é complicado, (2) mudaram a estrutura um par de vezes e o pior (3) é que em certos meses talvez um sensor deve ter pifado e em vez de colocarem um zero ou string vazia saltaram a célula e portanto há linhas com menos colunas que outras. <em>Oh joy!</em></p>
+<p>Para além de tudo isto, são publicados com um mês e meio de atraso, mais coisa menos coisa&hellip;</p>
+<p>Enfim, com o tempo fui fazendo um conversor desses dados que me produz um TSV bem formatado. Com isso tenho inserido os dados numa PivotTable, no Excel ou Numbers para os explorar. No passado usei ainda o Tableaux, quando tinha uma licença, mas esses tempos já lá vão.</p>
+<p>Em vez de ter isto numa folha de cálculo, gostava de publicar isto num dashboard ou num reporting tool online, mas todos estes passos com os PDFs tornam a coisa complicada de automatizar. Além de que pouco actual.</p>
+<p>Entretanto, descobri que o IPMA tem isso tudo em JSON:
+<a href="https://api.ipma.pt/open-data/"   target="_blank">https://api.ipma.pt/open-data/</a></p>
+<p>Não é a mesma estação, pois a do IPMA é mais perto do mar, on <a href="https://ema.ipma.pt/emas/tavira/"   target="_blank">Forte do Rato</a>.</p>
+<p>O IPMA publica as observações horárias, com menos de uma hora de atraso. No entanto, só as últimas 24h.</p>
+<p>Portanto, o plano que eu tenho para isto:</p>
+<ul>
+<li>começar a colecionar as observações horárias</li>
+<li>unir o histórico (outra estação, talvez não todas as métricas, enfim) com o <em>near real time</em></li>
+<li>como vou ter isto numa BD expor numa web-interface os dados, com tabelas e gráficos simples</li>
+</ul>
+<p>Há depois uma outra ideia para usar os dados, mas isso fica para mais tarde.</p>
 
 		</section>
 
@@ -115,9 +126,9 @@
 			<nav class="nav tags">
 				<ul class="tags">
 					
-					<li><a href="/tags/en">en</a></li>
+					<li><a href="/tags/ipma">ipma</a></li>
 					
-					<li><a href="/tags/phost">phost</a></li>
+					<li><a href="/tags/pt">pt</a></li>
 					
 				</ul>
 			</nav>

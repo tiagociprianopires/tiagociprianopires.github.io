@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html><head lang="en"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
 	<meta charset="utf-8" />
-	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Storm Louis is coming - Biggus Datum</title><meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this. " />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"><title>Download IPMA Open Data - Biggus Datum</title><meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="Comecei a recolher os dados" />
 	<meta property="og:image" content=""/>
-	<meta property="og:title" content="Storm Louis is coming" />
-<meta property="og:description" content="Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this. " />
+	<meta property="og:title" content="Download IPMA Open Data" />
+<meta property="og:description" content="Comecei a recolher os dados" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="http://localhost:1313/phosts/amsterdam/storm-louis/" /><meta property="article:section" content="phosts" />
-<meta property="article:published_time" content="2024-02-22T20:06:33+01:00" />
-<meta property="article:modified_time" content="2024-02-22T20:06:33+01:00" />
+<meta property="og:url" content="http://localhost:1313/posts/ipma/download-ipma-open-data/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2024-03-09T09:12:45+01:00" />
+<meta property="article:modified_time" content="2024-03-09T09:12:45+01:00" />
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Storm Louis is coming"/>
-<meta name="twitter:description" content="Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this. "/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Download IPMA Open Data"/>
+<meta name="twitter:description" content="Comecei a recolher os dados"/>
 <script src="http://localhost:1313/js/feather.min.js"></script>
 	
 	
@@ -95,17 +95,26 @@
 <main>
 	<article>
 		<div class="title">
-			<h1 class="title">Storm Louis is coming</h1>
-			<div class="meta">Posted on Feb 22, 2024</div>
+			<h1 class="title">Download IPMA Open Data</h1>
+			<div class="meta">Posted on Mar 9, 2024</div>
 		</div>
 		
 
 		<section class="body">
-			<p>Big storm coming tonight. Hoppefuly we won&rsquo;t get more bridges like this.
-<figure><img src="/images/photos/IMG_0525_rt-DeNoiseAI-denoise.jpg"
-         alt="New bridge after a storm"/>
-</figure>
-</p>
+			<p>Esta manhã fiz um programeta para fazer <em>download</em> dos dados do IPMA.
+Neste momento apenas vai buscar os dados de uma estação, de Tavira.</p>
+<p>Pontos chave:</p>
+<ul>
+<li>escrito em Kotlin</li>
+<li>Sqlite para guardar os dados</li>
+<li>SqlDelight como interface para a base de dados</li>
+</ul>
+<p>Ainda sou muito verdinho nisto do Kotlin. O Kotlin das duas linguagens de programação que decidi aprender em 2024. A única outra coisa que fiz em Kotlin antes foi um jogo das damas, usando o MinMax (com cortes alfa-beta). Para o qual ainda queria fazer um pequeno UI, também em Kotlin, mas ainda não arranjei tempo e motivação para tanto.</p>
+<p>Para fazer deploy disto lancei um <em>droplet</em> no DigitalOcean, o mais pequeno de todos, pela módica quantia de 4 euros/mês. O processo corre todas as horas. De 12h em 12h faço um backup da base de dados do SQLite para um bucket S3. Ainda tenho para aí uns Raspberry Pi&rsquo;s antigos, algures numa caixa, mas o meu provedor de internet falha com alguma regularidade. Funciona melhor na dropbox.
+É fácil re-instalar tudo, mas como estava com pressa - aniversário da minha filha - por agora configurei um backup semanal completo do <em>droplet</em>. Meros 80 cêntimos extra por mês.</p>
+<p>A computação partilhada é estupidamente barata hoje em dia para estes <em>workloads</em> simples.</p>
+<p>Agora é coleccionar por dois meses até os PDFs da estação da Direção Regional de Agricultura e Pescas do Algarve para as mesmas datas seja disponibilizado, para poder fazer o merge dos dois datasets.</p>
+<p><a href="https://github.com/tiagociprianopires/ptweather/branches"   target="_blank">O programeta</a>.</p>
 
 		</section>
 
@@ -115,9 +124,9 @@
 			<nav class="nav tags">
 				<ul class="tags">
 					
-					<li><a href="/tags/en">en</a></li>
+					<li><a href="/tags/ipma">ipma</a></li>
 					
-					<li><a href="/tags/phost">phost</a></li>
+					<li><a href="/tags/pt">pt</a></li>
 					
 				</ul>
 			</nav>

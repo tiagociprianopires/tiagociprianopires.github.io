@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collections on Biggus Datum</title>
-    <link>http://biggusdatum.com/collections/</link>
+    <link>http://localhost:1313/collections/</link>
     <description>Recent content in Collections on Biggus Datum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Fri, 23 Feb 2024 20:43:25 +0100</lastBuildDate>
-    <atom:link href="http://biggusdatum.com/collections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/collections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How is this built and what needs to be done</title>
-      <link>http://biggusdatum.com/collections/technical_guide_to_this_site/</link>
+      <link>http://localhost:1313/collections/technical_guide_to_this_site/</link>
       <pubDate>Fri, 23 Feb 2024 20:43:25 +0100</pubDate>
-      <guid>http://biggusdatum.com/collections/technical_guide_to_this_site/</guid>
+      <guid>http://localhost:1313/collections/technical_guide_to_this_site/</guid>
       <description>Premisses I&amp;rsquo;m using Hugo to build this. It&amp;rsquo;s stored in a gitHub repo and with a submodule it links to another repo, where the site public content is generated into, to be served thanks to GitHub Pages.&#xA;The reason I&amp;rsquo;m using Hugo and not Jekyll is mostly because how much I hate installing Ruby in my macbook. That was the main reason. I&amp;rsquo;ve used Jekyll before and I liked it. The template language is so much easier than the one used in Hugo, but the simplicity of installing Hugo plus the auto-updated local server made me chose Hugo hands down.</description>
     </item>
     <item>
       <title>Programming languages for 2024</title>
-      <link>http://biggusdatum.com/collections/languages-to-learn/</link>
+      <link>http://localhost:1313/collections/languages-to-learn/</link>
       <pubDate>Fri, 23 Feb 2024 18:41:23 +0100</pubDate>
-      <guid>http://biggusdatum.com/collections/languages-to-learn/</guid>
+      <guid>http://localhost:1313/collections/languages-to-learn/</guid>
       <description>These are the programming languages I would like to learn or improve my knowledge this year.&#xA;Kotlin Rust Python Kotlin is a more recent language that runs on the JVM and has been gaining traction over the years.&#xA;Rust is noteworthy for its innovative memory borrow model, which seems interesting to learn and work with. The language offers impressive performance, and it&amp;rsquo;s supported by Apple for iOS app development. It also incorporates functional constructs such as iterators and closures.</description>
     </item>
   </channel>
