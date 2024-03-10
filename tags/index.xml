@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 09:12:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 19:07:01 +0100</lastBuildDate>
     <atom:link href="http://biggusdatum.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>En</title>
+      <link>http://biggusdatum.com/tags/en/</link>
+      <pubDate>Sun, 10 Mar 2024 19:07:01 +0100</pubDate>
+      <guid>http://biggusdatum.com/tags/en/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Phost</title>
+      <link>http://biggusdatum.com/tags/phost/</link>
+      <pubDate>Sun, 10 Mar 2024 19:07:01 +0100</pubDate>
+      <guid>http://biggusdatum.com/tags/phost/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pt</title>
+      <link>http://biggusdatum.com/tags/pt/</link>
+      <pubDate>Sun, 10 Mar 2024 18:53:38 +0100</pubDate>
+      <guid>http://biggusdatum.com/tags/pt/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ipma</title>
       <link>http://biggusdatum.com/tags/ipma/</link>
@@ -17,31 +38,10 @@
       <description></description>
     </item>
     <item>
-      <title>Pt</title>
-      <link>http://biggusdatum.com/tags/pt/</link>
-      <pubDate>Sat, 09 Mar 2024 09:12:45 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/pt/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>En</title>
-      <link>http://biggusdatum.com/tags/en/</link>
-      <pubDate>Fri, 23 Feb 2024 20:43:25 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/en/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Quotes</title>
       <link>http://biggusdatum.com/tags/quotes/</link>
       <pubDate>Fri, 23 Feb 2024 18:20:45 +0100</pubDate>
       <guid>http://biggusdatum.com/tags/quotes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Phost</title>
-      <link>http://biggusdatum.com/tags/phost/</link>
-      <pubDate>Fri, 23 Feb 2024 18:14:03 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/phost/</guid>
       <description></description>
     </item>
     <item>

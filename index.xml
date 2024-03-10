@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 09:12:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 19:07:01 +0100</lastBuildDate>
     <atom:link href="http://biggusdatum.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring is comming</title>
+      <link>http://biggusdatum.com/phosts/amsterdam/improving-weather/</link>
+      <pubDate>Sun, 10 Mar 2024 19:07:01 +0100</pubDate>
+      <guid>http://biggusdatum.com/phosts/amsterdam/improving-weather/</guid>
+      <description>Spring is comming. </description>
+    </item>
+    <item>
+      <title>Quando eu morrer...</title>
+      <link>http://biggusdatum.com/posts/pensamentos/quando-morrer/</link>
+      <pubDate>Sun, 10 Mar 2024 18:53:38 +0100</pubDate>
+      <guid>http://biggusdatum.com/posts/pensamentos/quando-morrer/</guid>
+      <description>Quando eu morrer e me quiserem celebrar no dia do meu aniversário, deixem no cemitério meio frango de churrasco com batata frita - DAS VERDADEIRAS.</description>
+    </item>
     <item>
       <title>Download IPMA Open Data</title>
       <link>http://biggusdatum.com/posts/ipma/download-ipma-open-data/</link>
@@ -60,9 +74,9 @@
     </item>
     <item>
       <title>Wishing for better weather</title>
-      <link>http://biggusdatum.com/phosts/amsterdam/improving-weather/</link>
+      <link>http://biggusdatum.com/phosts/amsterdam/spring-is-definitely-coming/</link>
       <pubDate>Fri, 23 Feb 2024 18:14:03 +0100</pubDate>
-      <guid>http://biggusdatum.com/phosts/amsterdam/improving-weather/</guid>
+      <guid>http://biggusdatum.com/phosts/amsterdam/spring-is-definitely-coming/</guid>
       <description>After the big storm I&amp;rsquo;m hopefull something like this will be back for the weekend. This was taken almost exactly 3 years ago. </description>
     </item>
     <item>
