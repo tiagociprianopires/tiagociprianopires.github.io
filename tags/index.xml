@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Biggus Datum</title>
-    <link>http://biggusdatum.com/tags/</link>
+    <link>https://biggusdatum.com/tags/</link>
     <description>Recent content in Tags on Biggus Datum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Thu, 11 Apr 2024 17:50:33 +0100</lastBuildDate>
-    <atom:link href="http://biggusdatum.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://biggusdatum.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>En</title>
-      <link>http://biggusdatum.com/tags/en/</link>
+      <link>https://biggusdatum.com/tags/en/</link>
       <pubDate>Thu, 11 Apr 2024 17:50:33 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/en/</guid>
+      <guid>https://biggusdatum.com/tags/en/</guid>
       <description></description>
     </item>
     <item>
       <title>Phost</title>
-      <link>http://biggusdatum.com/tags/phost/</link>
+      <link>https://biggusdatum.com/tags/phost/</link>
       <pubDate>Sun, 10 Mar 2024 19:07:01 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/phost/</guid>
+      <guid>https://biggusdatum.com/tags/phost/</guid>
       <description></description>
     </item>
     <item>
       <title>Pt</title>
-      <link>http://biggusdatum.com/tags/pt/</link>
+      <link>https://biggusdatum.com/tags/pt/</link>
       <pubDate>Sun, 10 Mar 2024 18:53:38 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/pt/</guid>
+      <guid>https://biggusdatum.com/tags/pt/</guid>
       <description></description>
     </item>
     <item>
       <title>Ipma</title>
-      <link>http://biggusdatum.com/tags/ipma/</link>
+      <link>https://biggusdatum.com/tags/ipma/</link>
       <pubDate>Sat, 09 Mar 2024 09:12:45 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/ipma/</guid>
+      <guid>https://biggusdatum.com/tags/ipma/</guid>
       <description></description>
     </item>
     <item>
       <title>Quotes</title>
-      <link>http://biggusdatum.com/tags/quotes/</link>
+      <link>https://biggusdatum.com/tags/quotes/</link>
       <pubDate>Fri, 23 Feb 2024 18:20:45 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/quotes/</guid>
+      <guid>https://biggusdatum.com/tags/quotes/</guid>
       <description></description>
     </item>
     <item>
       <title>Fwfoc</title>
-      <link>http://biggusdatum.com/tags/fwfoc/</link>
+      <link>https://biggusdatum.com/tags/fwfoc/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
-      <guid>http://biggusdatum.com/tags/fwfoc/</guid>
+      <guid>https://biggusdatum.com/tags/fwfoc/</guid>
       <description></description>
     </item>
   </channel>

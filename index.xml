@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biggus Datum</title>
-    <link>http://biggusdatum.com/</link>
+    <link>https://biggusdatum.com/</link>
     <description>Recent content on Biggus Datum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Thu, 11 Apr 2024 17:50:33 +0100</lastBuildDate>
-    <atom:link href="http://biggusdatum.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://biggusdatum.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zen Buddhists say</title>
-      <link>http://biggusdatum.com/posts/pensamentos/zen-buddhists-say/</link>
+      <link>https://biggusdatum.com/posts/pensamentos/zen-buddhists-say/</link>
       <pubDate>Thu, 11 Apr 2024 17:50:33 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/pensamentos/zen-buddhists-say/</guid>
+      <guid>https://biggusdatum.com/posts/pensamentos/zen-buddhists-say/</guid>
       <description>Zen Buddhists say you need three things: Something to love, something to hope for and something to do.</description>
     </item>
     <item>
       <title>Spring is comming</title>
-      <link>http://biggusdatum.com/phosts/amsterdam/improving-weather/</link>
+      <link>https://biggusdatum.com/phosts/amsterdam/improving-weather/</link>
       <pubDate>Sun, 10 Mar 2024 19:07:01 +0100</pubDate>
-      <guid>http://biggusdatum.com/phosts/amsterdam/improving-weather/</guid>
+      <guid>https://biggusdatum.com/phosts/amsterdam/improving-weather/</guid>
       <description>Spring is comming. </description>
     </item>
     <item>
       <title>Quando eu morrer...</title>
-      <link>http://biggusdatum.com/posts/pensamentos/quando-morrer/</link>
+      <link>https://biggusdatum.com/posts/pensamentos/quando-morrer/</link>
       <pubDate>Sun, 10 Mar 2024 18:53:38 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/pensamentos/quando-morrer/</guid>
+      <guid>https://biggusdatum.com/posts/pensamentos/quando-morrer/</guid>
       <description>Quando eu morrer e sempre que quiserem me celebrar no dia do meu aniversário, deixem-me no cemitério meio frango de churrasco com piri-piri e batata frita - MAS DAS VERDADEIRAS.</description>
     </item>
     <item>
       <title>Download IPMA Open Data</title>
-      <link>http://biggusdatum.com/posts/ipma/download-ipma-open-data/</link>
+      <link>https://biggusdatum.com/posts/ipma/download-ipma-open-data/</link>
       <pubDate>Sat, 09 Mar 2024 09:12:45 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/ipma/download-ipma-open-data/</guid>
+      <guid>https://biggusdatum.com/posts/ipma/download-ipma-open-data/</guid>
       <description>Esta manhã fiz um programeta para fazer download dos dados do IPMA. Neste momento apenas vai buscar os dados de uma estação, de Tavira.&#xA;Pontos chave:&#xA;escrito em Kotlin Sqlite para guardar os dados SqlDelight como interface para a base de dados Ainda sou muito verdinho nisto do Kotlin. O Kotlin das duas linguagens de programação que decidi aprender em 2024. A única outra coisa que fiz em Kotlin antes foi um jogo das damas, usando o MinMax (com cortes alfa-beta).</description>
     </item>
     <item>
       <title>IPMA Open Data</title>
-      <link>http://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</link>
+      <link>https://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</link>
       <pubDate>Wed, 28 Feb 2024 07:11:32 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</guid>
+      <guid>https://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</guid>
       <description>Há anos que coleciono os dados da estação metereológica mais perto da horta, em Tavira. Têm sido publicados em PDF (wtf?) há anos - pelos menos desde 2006. O problema é que (1) fazer o parsing de um PDF é complicado, (2) mudaram a estrutura um par de vezes e o pior (3) é que em certos meses talvez um sensor deve ter pifado e em vez de colocarem um zero ou string vazia saltaram a célula e portanto há linhas com menos colunas que outras.</description>
     </item>
     <item>
       <title>How is this built and what needs to be done</title>
-      <link>http://biggusdatum.com/collections/technical_guide_to_this_site/</link>
+      <link>https://biggusdatum.com/collections/technical_guide_to_this_site/</link>
       <pubDate>Fri, 23 Feb 2024 20:43:25 +0100</pubDate>
-      <guid>http://biggusdatum.com/collections/technical_guide_to_this_site/</guid>
+      <guid>https://biggusdatum.com/collections/technical_guide_to_this_site/</guid>
       <description>Premisses I&amp;rsquo;m using Hugo to build this. It&amp;rsquo;s stored in a gitHub repo and with a submodule it links to another repo, where the site public content is generated into, to be served thanks to GitHub Pages.&#xA;The reason I&amp;rsquo;m using Hugo and not Jekyll is mostly because how much I hate installing Ruby in my macbook. That was the main reason. I&amp;rsquo;ve used Jekyll before and I liked it. The template language is so much easier than the one used in Hugo, but the simplicity of installing Hugo plus the auto-updated local server made me chose Hugo hands down.</description>
     </item>
     <item>
       <title>We&#39;re getting there</title>
-      <link>http://biggusdatum.com/posts/were-getting-there/</link>
+      <link>https://biggusdatum.com/posts/were-getting-there/</link>
       <pubDate>Fri, 23 Feb 2024 20:42:02 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/were-getting-there/</guid>
+      <guid>https://biggusdatum.com/posts/were-getting-there/</guid>
       <description>Just edited the about page. We&amp;rsquo;re getting there. Still need to think about navigation. Maybe push these posts to the side and let the collections or pages be the center of the page. Not sure yet, but we&amp;rsquo;re getting there. I&amp;rsquo;m quite enjoying the creation of this.</description>
     </item>
     <item>
       <title>Programming languages for 2024</title>
-      <link>http://biggusdatum.com/collections/languages-to-learn/</link>
+      <link>https://biggusdatum.com/collections/languages-to-learn/</link>
       <pubDate>Fri, 23 Feb 2024 18:41:23 +0100</pubDate>
-      <guid>http://biggusdatum.com/collections/languages-to-learn/</guid>
+      <guid>https://biggusdatum.com/collections/languages-to-learn/</guid>
       <description>These are the programming languages I would like to learn or improve my knowledge this year.&#xA;Kotlin Rust Python Kotlin is a more recent language that runs on the JVM and has been gaining traction over the years.&#xA;Rust is noteworthy for its innovative memory borrow model, which seems interesting to learn and work with. The language offers impressive performance, and it&amp;rsquo;s supported by Apple for iOS app development. It also incorporates functional constructs such as iterators and closures.</description>
     </item>
     <item>
       <title>It&#39;s OK not to always have an opinion</title>
-      <link>http://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</link>
+      <link>https://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</link>
       <pubDate>Fri, 23 Feb 2024 18:20:45 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</guid>
+      <guid>https://biggusdatum.com/posts/quotes/its-ok-not-to-have-an-opinion/</guid>
       <description>You always own the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can&amp;rsquo;t control. These things are not asking to be judged by you. Leave them alone.&#xA;&amp;ndash; Marcus Aurelius</description>
     </item>
     <item>
       <title>Serenity Now</title>
-      <link>http://biggusdatum.com/posts/quotes/serenity/</link>
+      <link>https://biggusdatum.com/posts/quotes/serenity/</link>
       <pubDate>Fri, 23 Feb 2024 18:18:37 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/quotes/serenity/</guid>
+      <guid>https://biggusdatum.com/posts/quotes/serenity/</guid>
       <description>God grant me the serenity to accept the things I cannot change. Courage to change the things that I can. And wisdom to know the difference.&#xA;&amp;ndash; Marcus Aurelius</description>
     </item>
     <item>
       <title>Wishing for better weather</title>
-      <link>http://biggusdatum.com/phosts/amsterdam/spring-is-definitely-coming/</link>
+      <link>https://biggusdatum.com/phosts/amsterdam/spring-is-definitely-coming/</link>
       <pubDate>Fri, 23 Feb 2024 18:14:03 +0100</pubDate>
-      <guid>http://biggusdatum.com/phosts/amsterdam/spring-is-definitely-coming/</guid>
+      <guid>https://biggusdatum.com/phosts/amsterdam/spring-is-definitely-coming/</guid>
       <description>After the big storm I&amp;rsquo;m hopefull something like this will be back for the weekend. This was taken almost exactly 3 years ago. </description>
     </item>
     <item>
       <title>How to deal with depression</title>
-      <link>http://biggusdatum.com/posts/quotes/depression/</link>
+      <link>https://biggusdatum.com/posts/quotes/depression/</link>
       <pubDate>Fri, 23 Feb 2024 00:01:04 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/quotes/depression/</guid>
+      <guid>https://biggusdatum.com/posts/quotes/depression/</guid>
       <description>Put depression on your todo list so you never get to it&#xA;&amp;ndash; Tiago Forte</description>
     </item>
     <item>
       <title>Storm Louis is coming</title>
-      <link>http://biggusdatum.com/phosts/amsterdam/storm-louis/</link>
+      <link>https://biggusdatum.com/phosts/amsterdam/storm-louis/</link>
       <pubDate>Thu, 22 Feb 2024 20:06:33 +0100</pubDate>
-      <guid>http://biggusdatum.com/phosts/amsterdam/storm-louis/</guid>
+      <guid>https://biggusdatum.com/phosts/amsterdam/storm-louis/</guid>
       <description>Big storm coming tonight. Hoppefuly we won&amp;rsquo;t get more bridges like this. </description>
     </item>
     <item>
       <title>Doesn&#39;t know how to keep know how</title>
-      <link>http://biggusdatum.com/posts/fwfoc/know-how/</link>
+      <link>https://biggusdatum.com/posts/fwfoc/know-how/</link>
       <pubDate>Wed, 21 Feb 2024 22:14:58 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/fwfoc/know-how/</guid>
+      <guid>https://biggusdatum.com/posts/fwfoc/know-how/</guid>
       <description>A friend works for a company that, after acquiring a software company for millions just for their know-how, allowed them to work in a silo while integrating their software into the main data stream. Subsequently, the company proceeded to fire them all. Now, they can&amp;rsquo;t understand or perform the required maintenance on what has become essential software. Having none of the knowledge that cost millions to acquire, the company has decided to fix this issue by hiring external consultants instead of relying on in-house developers.</description>
     </item>
     <item>
       <title>About</title>
-      <link>http://biggusdatum.com/about/</link>
+      <link>https://biggusdatum.com/about/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:59 +0100</pubDate>
-      <guid>http://biggusdatum.com/about/</guid>
+      <guid>https://biggusdatum.com/about/</guid>
       <description>Modern blogs, in which all the texts are to be perputal and displayed chronologically, are not the original personal web spaces. Before there was a myriad of pages that were individually curated, without the constraints that current site-building tools or software impose. Granted, those tools have democratized the space, making it available to anyone with an internet connection. But they have also standardized what used to be a diverse collection of pages (many just lists of hyperlinks), each with a unique structure, layout or taste where the creator personality could truly shine.</description>
     </item>
     <item>
       <title>What&#39;s this all about</title>
-      <link>http://biggusdatum.com/posts/kickstart/</link>
+      <link>https://biggusdatum.com/posts/kickstart/</link>
       <pubDate>Wed, 21 Feb 2024 21:14:58 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/kickstart/</guid>
+      <guid>https://biggusdatum.com/posts/kickstart/</guid>
       <description>Digital garden, ramblings and others. Appologies with the mix of languages, but that&amp;rsquo;s just how my mind works.</description>
     </item>
     <item>
       <title></title>
-      <link>http://biggusdatum.com/404/</link>
+      <link>https://biggusdatum.com/404/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://biggusdatum.com/404/</guid>
+      <guid>https://biggusdatum.com/404/</guid>
       <description></description>
     </item>
   </channel>

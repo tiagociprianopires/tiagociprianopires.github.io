@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pt on Biggus Datum</title>
-    <link>http://biggusdatum.com/tags/pt/</link>
+    <link>https://biggusdatum.com/tags/pt/</link>
     <description>Recent content in Pt on Biggus Datum</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Tiago Cipriano Pires</copyright>
     <lastBuildDate>Sun, 10 Mar 2024 18:53:38 +0100</lastBuildDate>
-    <atom:link href="http://biggusdatum.com/tags/pt/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://biggusdatum.com/tags/pt/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quando eu morrer...</title>
-      <link>http://biggusdatum.com/posts/pensamentos/quando-morrer/</link>
+      <link>https://biggusdatum.com/posts/pensamentos/quando-morrer/</link>
       <pubDate>Sun, 10 Mar 2024 18:53:38 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/pensamentos/quando-morrer/</guid>
+      <guid>https://biggusdatum.com/posts/pensamentos/quando-morrer/</guid>
       <description>Quando eu morrer e sempre que quiserem me celebrar no dia do meu aniversário, deixem-me no cemitério meio frango de churrasco com piri-piri e batata frita - MAS DAS VERDADEIRAS.</description>
     </item>
     <item>
       <title>Download IPMA Open Data</title>
-      <link>http://biggusdatum.com/posts/ipma/download-ipma-open-data/</link>
+      <link>https://biggusdatum.com/posts/ipma/download-ipma-open-data/</link>
       <pubDate>Sat, 09 Mar 2024 09:12:45 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/ipma/download-ipma-open-data/</guid>
+      <guid>https://biggusdatum.com/posts/ipma/download-ipma-open-data/</guid>
       <description>Esta manhã fiz um programeta para fazer download dos dados do IPMA. Neste momento apenas vai buscar os dados de uma estação, de Tavira.&#xA;Pontos chave:&#xA;escrito em Kotlin Sqlite para guardar os dados SqlDelight como interface para a base de dados Ainda sou muito verdinho nisto do Kotlin. O Kotlin das duas linguagens de programação que decidi aprender em 2024. A única outra coisa que fiz em Kotlin antes foi um jogo das damas, usando o MinMax (com cortes alfa-beta).</description>
     </item>
     <item>
       <title>IPMA Open Data</title>
-      <link>http://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</link>
+      <link>https://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</link>
       <pubDate>Wed, 28 Feb 2024 07:11:32 +0100</pubDate>
-      <guid>http://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</guid>
+      <guid>https://biggusdatum.com/posts/ipma/ipma-open-data-project-overview/</guid>
       <description>Há anos que coleciono os dados da estação metereológica mais perto da horta, em Tavira. Têm sido publicados em PDF (wtf?) há anos - pelos menos desde 2006. O problema é que (1) fazer o parsing de um PDF é complicado, (2) mudaram a estrutura um par de vezes e o pior (3) é que em certos meses talvez um sensor deve ter pifado e em vez de colocarem um zero ou string vazia saltaram a célula e portanto há linhas com menos colunas que outras.</description>
     </item>
   </channel>
